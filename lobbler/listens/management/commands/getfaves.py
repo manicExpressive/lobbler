@@ -6,7 +6,8 @@ from ytmusicapi import YTMusic
 # in the django app's virtualenv so I keep it here.
 
 yt = YTMusic('oauth.json')
-listens = yt.get_liked_songs()
+likes = yt.get_liked_songs()
+likes['tracks'] = likes['tracks'][:10]
 timestr = time.strftime("%Y%m%d-%H%M%S") + ".json"
 with open(timestr, 'w', encoding='utf-8') as f:
-    json.dump(listens, f, ensure_ascii=False, indent=4)
+    json.dump(likes, f, ensure_ascii=False, indent=4)
