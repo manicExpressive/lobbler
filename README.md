@@ -8,5 +8,7 @@ Lobbler is like a scrobbler. My attempt at keeping a last.fm account update to d
 # TODO
 
 [X] ~~Store listens from YT Music~~
+
 [X] ~~CSend listens from YT Music to last.fm~~
+
 [ ] Users?
