@@ -2,7 +2,7 @@
 
 🚧🚧🚧
 
-**NOTE:** This project isn't currenlty intended for others to use, mostly exploring.
+**NOTE:** This project isn't currently intended for others to use, mostly exploring.
 
 🚧🚧🚧
 
