@@ -12,6 +12,8 @@ Lobbler is **like** a scrobbler. My attempt at keeping my last.fm account update
 
 **A Second Update** (2024/06/05): This turned out to be a good decision, my first day of scrobbling didn't work as no songs were returned as played "Yesterday" most of the day. This is a partial solution to a problem that should be solved at some other level, unlikely to be a good tool for other folks.
 
+**A Tertiary Update** (2024/08/21): I've been using [@FoxxMd/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) for a few weeks now and it's like, "What if you made a real version of Lobbler?" - highly recommended!
+
 
 # TODO
 
